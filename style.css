@@ -1,0 +1,16 @@
+      #header {
+    background-color:black;
+    color:red;
+    text-align:center;
+    padding:5px;
+}
+h1{color: rgb(255,0,255);font-family: 'Press Start 2P', cursive;}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+#Cat{Width: 200px; Height: auto;}
+body{background: rgb(255,0,0);}
